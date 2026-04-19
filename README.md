@@ -11,7 +11,7 @@ I build intelligent, scalable AI systems that solve real-world problems.
 <td width="50%">
 
 ## Skills
-- Python, SQL, JavaScript  
+- Python, SQL  
 - LangChain, FastAPI, Streamlit  
 - Machine Learning, NLP, Generative AI  
 - RAG, LLMs, Multi-Agent Systems  
