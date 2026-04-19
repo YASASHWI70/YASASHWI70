@@ -1,41 +1,53 @@
-<h1 align="center">Yasashwi S G</h1>
-<p align="center">
-AI Engineer • AIML Enthusiast • MLOps Learner
-</p>
+# Hey, I'm Yasashwi S G
 
-<p align="center">
+AI Engineer | AIML Enthusiast | MLOps Learner  
+
 I build intelligent, scalable AI systems that solve real-world problems.
-</p>
 
 ---
 
-### Current Focus
+<table>
+<tr>
+<td width="50%">
 
----
+## Skills
+- Python, SQL, JavaScript  
+- LangChain, FastAPI, Streamlit  
+- Machine Learning, NLP, Generative AI  
+- RAG, LLMs, Multi-Agent Systems  
 
-### Tech Stack
+</td>
+<td width="50%">
 
-| Area | Stack |
-|------|------|
-| Languages | Python, SQL, JavaScript |
-| Frameworks | LangChain, FastAPI, Streamlit |
-| Domains | Machine Learning, NLP, Generative AI |
-| Specialization | RAG, LLMs, Multi-Agent Systems |
+## What I'm Working On
+- Building end-to-end RAG pipelines  
+- Designing AI copilots (Healthcare + beyond)  
+- Improving ML systems for real-world use  
 
----
+</td>
+</tr>
 
-### Projects
+<tr>
+<td width="50%">
 
+## Projects
 - Multi-Agent Healthcare Copilot  
 - End-to-End RAG Pipeline  
 - LLM-based Applications  
 
+</td>
+<td width="50%">
+
+## Learning
+- Advanced RAG architectures  
+- Vector Databases  
+- Scalable AI system design  
+
+</td>
+</tr>
+</table>
+
 ---
 
-### Learning Path (Now → Next)
-
----
-
-### Long-Term Direction
-
-Building intelligent AI systems at scale and working in Ireland.
+## Goal
+Build intelligent AI systems at scale and work in Ireland.
