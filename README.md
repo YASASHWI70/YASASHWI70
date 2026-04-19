@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hey, I'm Yasashwi S G
 
-<!--
-**YASASHWI70/YASASHWI70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer | AIML Enthusiast | MLOps Learner  
 
-Here are some ideas to get you started:
+I build intelligent, scalable AI systems that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills
+- Python, SQL, JavaScript  
+- LangChain, FastAPI, Streamlit  
+- Machine Learning, NLP, Generative AI  
+- RAG, LLMs, Multi-Agent Systems  
+
+---
+
+## What I'm Working On
+- Building end-to-end RAG pipelines  
+- Designing AI copilots (Healthcare + beyond)  
+- Improving ML systems for real-world use  
+
+---
+
+## Projects
+- Multi-Agent Healthcare Copilot  
+- End-to-End RAG Pipeline  
+- LLM-based Applications  
+
+---
+
+## Learning
+- Advanced RAG architectures  
+- Vector Databases  
+- Scalable AI system design  
+
+---
+
+## Goal
+Build intelligent AI systems at scale and work in Ireland.
