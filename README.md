@@ -6,46 +6,38 @@ I build intelligent, scalable AI systems that solve real-world problems.
 
 ---
 
-<table>
-<tr>
-<td width="50%">
+## System Overview
 
-## Skills
-- Python, SQL, JavaScript  
-- LangChain, FastAPI, Streamlit  
-- Machine Learning, NLP, Generative AI  
-- RAG, LLMs, Multi-Agent Systems  
+### Skills → What I'm Working On → Projects → Learning
 
-</td>
-<td width="50%">
+---
 
-## What I'm Working On
-- Building end-to-end RAG pipelines  
-- Designing AI copilots (Healthcare + beyond)  
-- Improving ML systems for real-world use  
+### Skills
+Python, SQL, JavaScript  
+LangChain, FastAPI, Streamlit  
+Machine Learning, NLP, Generative AI  
+RAG, LLMs, Multi-Agent Systems  
 
-</td>
-</tr>
+↓
 
-<tr>
-<td width="50%">
+### What I'm Working On
+Building end-to-end RAG pipelines  
+Designing AI copilots (Healthcare + beyond)  
+Improving ML systems for real-world use  
 
-## Projects
-- Multi-Agent Healthcare Copilot  
-- End-to-End RAG Pipeline  
-- LLM-based Applications  
+↓
 
-</td>
-<td width="50%">
+### Projects
+Multi-Agent Healthcare Copilot  
+End-to-End RAG Pipeline  
+LLM-based Applications  
 
-## Learning
-- Advanced RAG architectures  
-- Vector Databases  
-- Scalable AI system design  
+↓
 
-</td>
-</tr>
-</table>
+### Learning
+Advanced RAG architectures  
+Vector Databases  
+Scalable AI system design  
 
 ---
 
