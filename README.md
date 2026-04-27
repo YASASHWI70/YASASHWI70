@@ -2,7 +2,7 @@
 
 AI Engineer | AIML Enthusiast | MLOps Learner  
 
-I build intelligent, scalable AI systems that solve real-world problems.
+I am cognitive in building intelligent, scalable AI systems that solve real-world problems.
 
 ---
 
@@ -40,7 +40,8 @@ I build intelligent, scalable AI systems that solve real-world problems.
 
 ## Learning
 - Advanced RAG architectures  
-- Vector Databases  
+- Vector Databases
+- AI Agents
 - Scalable AI system design  
 
 </td>
