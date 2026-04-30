@@ -33,7 +33,8 @@ I am cognitive in building intelligent, scalable AI systems that solve real-worl
 ## Projects
 - Multi-Agent Healthcare Copilot  
 - End-to-End RAG Pipeline  
-- LLM-based Applications  
+- LLM-based Applications
+- Automating Data Analysis
 
 </td>
 <td width="50%">
