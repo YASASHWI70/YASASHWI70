@@ -1,4 +1,5 @@
 # Hey, I'm Yasashwi S G
+![Profile views](https://komarev.com/ghpvc/?username=YASASHWI70&color=blue)
 
 AI Engineer | AIML Enthusiast | MLOps Learner  
 
