@@ -50,6 +50,3 @@ I am cognitive in building intelligent, scalable AI systems that solve real-worl
 </table>
 
 ---
-
-## Goal
-Build intelligent AI systems at scale and work in Ireland.
